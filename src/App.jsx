@@ -1,7 +1,7 @@
 
 import './App.css'
 import NavBar from './NavBar/NavBar'
-import DaisyNav from './components/DaisyNav/DaisyNav'
+// import DaisyNav from './components/DaisyNav/DaisyNav'
 
 function App() {
  
